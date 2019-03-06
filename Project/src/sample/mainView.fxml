@@ -45,7 +45,7 @@
                               <Insets top="6.0" />
                            </HBox.margin>
                         </Label>
-                        <TextField fx:id="pathTextField" prefHeight="39.0" prefWidth="397.0" promptText="write full folder path here" text="D:\MyDocumentsToChange\Korepetycje\trygonometria">
+                        <TextField fx:id="pathTextField" prefHeight="39.0" prefWidth="397.0" promptText="write full folder path here" text="/home/wz960506/Dokumenty/various/tmp">
                            <font>
                               <Font size="20.0" />
                            </font>
